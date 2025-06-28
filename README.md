@@ -26,7 +26,8 @@ I’m a highly driven **Cybersecurity Analyst** with hands-on expertise in:
 
 - ✅ eCPPTv2 – Certified Professional Penetration Tester  
 - ✅ eWPTXv2 – Certified Web Application Penetration Tester (Extreme)  
-- ✅ EHE – Ethical Hacking Expert  
+- ✅ EHE – Ethical Hacking Expert
+- ✅ eAPT – ehackify Advanced Penetration Tester  
 - ✅ Cert-IN Standards – Implementation & Security Audit
 
 ---
@@ -38,7 +39,7 @@ I’m a highly driven **Cybersecurity Analyst** with hands-on expertise in:
 | Offensive Tools | Burp Suite, Metasploit, SQLMap, Nmap, Nikto, OWASP ZAP |
 | Platforms       | Kali Linux, Parrot OS, Android, Windows |
 | Programming     | Python, Bash, Shell Scripting |
-| Cloud/Other     | GitHub, Postman, Nessus, Netcat, Wireshark |
+| Cloud/Other     | GitHub, Postman, Nessus, Netcat, Wireshark, Qualys, acunetix |
 
 ---
 
