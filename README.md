@@ -48,7 +48,7 @@ I’m a highly driven **Cybersecurity Analyst** with hands-on expertise in:
 - ✍️ **Medium** → [medium.com/@AnshilDev](https://medium.com/@AnshilDev)
 - 🐦 **Twitter (X)** → [twitter.com/Anshil_Dev](https://twitter.com/Anshil_Dev)
 - 💻 **GitHub** → [github.com/ANSHILDEV](https://github.com/ANSHILDEV)
-- 📧 **Email** → anshil[at]email.com _(update to your working address)_
+- 📧 **Email** → anshildev007@gmail.com
 
 ---
 
